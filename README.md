@@ -19,10 +19,10 @@
 
 ## Photos
 
-![Image](public/image-github/image-1.png)
-![Image](public/image-github/image-2.png)
-![Image](public/image-github/image-3.png)
-![Image](public/image-github/image-4.png)
+![Post](https://github.com/benitodev/clonate-instagram-Laravel/blob/main/public/image-github/image-1.PNG)
+![Profile](https://github.com/benitodev/clonate-instagram-Laravel/blob/main/public/image-github/image-2.PNG)
+![Search](https://github.com/benitodev/clonate-instagram-Laravel/blob/main/public/image-github/image-3.PNG)
+![Edit-profile](https://github.com/benitodev/clonate-instagram-Laravel/blob/main/public/image-github/image-4.PNG)
 
 ## License
 
