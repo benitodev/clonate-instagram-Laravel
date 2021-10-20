@@ -19,10 +19,10 @@
 
 ## Photos
 
-![Image](http://instagram.open/image-github/image-1.png)
-![Image](http://instagram.open/image-github/image-2.png)
-![Image](http://instagram.open/image-github/image-3.png)
-![Image](http://instagram.open/image-github/image-4.png)
+![Image](public/image-github/image-1.png)
+![Image](public/image-github/image-2.png)
+![Image](public/image-github/image-3.png)
+![Image](public/image-github/image-4.png)
 
 ## License
 
